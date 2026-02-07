@@ -5,10 +5,11 @@
 
 ## 👨‍💻 Sobre mim  
 
-- Desenvolvedor **Júnior**  
+- Desenvolvedor **Júnior**
+- Em construção rumo à pós-graduação 🏗️📚 
 - Graduado em **Análise e Desenvolvimento de Sistemas** - Ages  
 - Técnico em **Informática** - IFBA  
-- 📍 BA | 📍 SP✈︎, Brasil  
+- 📍 BA | 📍 SP✈︎ | 📍 SE, Brasil  
 
 ---
 
