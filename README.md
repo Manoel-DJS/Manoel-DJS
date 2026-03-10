@@ -16,7 +16,7 @@
 ## 🚀 Habilidades  
 
 - **Linguagens & Frameworks**: Node.js, Spring Boot  
-- **Banco de Dados**: PostgreSQL, MySQL, MongoDB
+- **Banco de Dados**: PostgreSQL, MySQL, MongoDB, OracleDB
 - **Testes**: JUnit, Mockito  
 - **Mensageria**: RabbitMQ  
 - **Containers**: Docker  
